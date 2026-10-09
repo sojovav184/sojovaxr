@@ -1,0 +1,6 @@
+UserID: 6457124624 | Time: 2026-10-09 17:23:30.792682 | Command: /bgmi | Target: 82.937.191 | Port: 18207 | Time: 300
+Username: @Legendrohitytc
+Target: 82.937.191
+Port: 18207
+Time: 300
+
